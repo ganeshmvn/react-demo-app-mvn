@@ -15,7 +15,7 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Learn how to deploy React app to Heroku
+					-----Learn how to deploy React app to Heroku---------
 				</a>
 			</header>
 		</div>
